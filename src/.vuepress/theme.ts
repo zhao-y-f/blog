@@ -3,11 +3,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://zhao-y-f.github.io",
 
   author: {
     name: "赵亚飞",
-    url: "https://baidu.com",
+    url: "https://zhao-y-f.github.io",
   },
 
   iconAssets: "iconfont",
