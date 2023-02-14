@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://zhao-y-f.github.io",
 
   author: {
-    name: "赵亚飞",
+    name: "zhao",
     url: "https://zhao-y-f.github.io",
   },
 
@@ -117,8 +117,11 @@ export default hopeTheme({
     blog: true,
 
     comment: {
-      // @ts-expect-error: You should generate and use your own comment service
       provider: "Giscus",
+      repo: "zhao-y-f/blog",
+      repoId: "R_kgDOI9t8oA",
+      category: "Announcements",
+      categoryId: "DIC_kwDOI9t8oM4CUNJi",
     },
 
     // all features are enabled for demo, only preserve features you need here
