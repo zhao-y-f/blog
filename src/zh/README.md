@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: /logo.svg
 heroText: zyf的博客
 heroFullScreen: true
-bgImage: /assets/MoonValley.jpg
+bgImage: /assets/MoonValley.png
 tagline: #你可以在这里放置你的口号与标语
 projects:
   - icon: project

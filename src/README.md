@@ -7,7 +7,7 @@ heroImage: /logo.svg
 heroText: yf 's blog
 tagline: this blog is unfinished
 heroFullScreen: true
-bgImage: /assets/LowerAntelopeAZ.jpg
+bgImage: /assets/LowerAntelopeAZ.png
 projects:
   - icon: book
     name: Ebooks
