@@ -42,7 +42,7 @@ export const zhNavbar = navbar([
     ],
   },
   {
-    text: "V2 文档",
+    text: "搭建自己的博客",
     icon: "note",
     link: "https://theme-hope.vuejs.vuepress/zh/",
   },

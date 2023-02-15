@@ -4,37 +4,38 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: /logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
+heroText: yf 's blog
+tagline: this blog is unfinished
 heroFullScreen: true
+bgImage: /assets/LowerAntelopeAZ.jpg
 projects:
+  - icon: book
+    name: Ebooks
+    desc: free programming books
+    link: https://github.com/justjavac/free-programming-books-zh_CN
+
   - icon: project
-    name: project name
+    name: unfinish
     desc: project detailed description
     link: https://your.project.link
 
   - icon: link
-    name: link name
+    name: unfinish
     desc: link detailed description
     link: https://link.address
 
-  - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
-
   - icon: article
-    name: article name
+    name: unfinish
     desc: Detailed description of the article
     link: https://link.to.your.article
 
   - icon: friend
-    name: friend name
+    name: unfinish
     desc: Detailed description of friend
     link: https://link.to.your.friend
 
   - icon: /logo.svg
-    name: custom item
+    name: unfinish
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 

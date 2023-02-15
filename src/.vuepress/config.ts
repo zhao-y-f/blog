@@ -8,7 +8,7 @@ export default defineUserConfig({
     "/": {
       lang: "en-US",
       title: "YaFei's Blog",
-      description: "A blog demo for vuepress-theme-hope",
+      description: "A blog",
     },
     "/zh/": {
       lang: "zh-CN",

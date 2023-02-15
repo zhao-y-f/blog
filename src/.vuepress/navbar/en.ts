@@ -9,6 +9,15 @@ export const enNavbar = navbar([
     prefix: "/posts/",
     children: [
       {
+        text: "Javascript",
+        icon: "edit",
+        prefix: "javascript/",
+        children: [
+          { text: "js", icon: "edit", link: "1" },
+          { text: "ts", icon: "edit", link: "2" },
+        ],
+      },
+      {
         text: "Apple",
         icon: "edit",
         prefix: "apple/",
@@ -43,7 +52,7 @@ export const enNavbar = navbar([
     ],
   },
   {
-    text: "V2 Docs",
+    text: "build blog",
     icon: "note",
     link: "https://theme-hope.vuejs.vuepress/",
   },

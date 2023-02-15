@@ -26,7 +26,7 @@ footer: Footer content for test
 copyright: No Copyright
 ---
 
-Content before `more` comment is regarded as page excerpt.
+  `more`  
 
 <!-- more -->
 
